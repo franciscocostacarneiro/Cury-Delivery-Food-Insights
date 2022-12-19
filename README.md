@@ -81,19 +81,22 @@ Os dados para este projeto podem ser encontrados em: https://www.kaggle.com/data
 |Restaurant_longitude   | A longitude geoespacial do restaurante que fez a entrega |
 |Delivery_location_latitude     |     A latitude geoespacial de onde foi feita a entrega     |
 |Delivery_location_longitude      |  A latitude geoespacial de onde foi feita a entrega                  |
-|   waterfront    | Variável que indica a presença ou não de vista para água (0 = não e 1 = sim) |
-|      view       | Um índice de 0 a 4 que indica a qualidade da vista da propriedade. Varia de 0 a 4, onde: 0 = baixa  4 = alta |
-|    condition    | Um índice de 1 a 5 que indica a condição da casa. Varia de 1 a 5, onde: 1 = baixo \|-\| 5 = alta |
-|      grade      | Um índice de 1 a 13 que indica a construção e o design do edifício. Varia de 1 a 13, onde: 1-3 = baixo, 7 = médio e 11-13 = alta |
-|  sqft_basement  | A metragem quadrada do espaço habitacional interior acima do nível do solo |
-|    yr_built     |               Ano de construção de cada imóvel               |
-|  yr_renovated   |                Ano de reforma de cada imóvel                 |
-|     zipcode     |                         CEP da casa                          |
-|       lat       |                           Latitude                           |
-|      long       |                          Longitude                           |
-| sqft_livining15 | Medida (em pés quadrado) do espaço interno de habitação para os 15 vizinhos mais próximo |
-|   sqft_lot15    | Medida (em pés quadrado) dos lotes de terra dos 15 vizinhos mais próximo |
+|Order_Date       |  Data do pedido e entrega realizada  |
+|Time_Orderd             | Hora do pedido  |
+|  Time_Order_picked      | Hora da retirada do pedido realizada pelo entregador |
+|  Weatherconditions          | Condição climática do período da entrega |
+| Road_traffic_density   |Condição do trânsito no período da entrega  |
+|  Vehicle_condition       |  Condição e estado do veículo utilizado para a entrega                            |
+| Type_of_order	    |  Tipo do pedido realizado                               |
+|  Type_of_vehicle        |  Tipo do veículo utilizado para a entrega                                                 |
+| multiple_deliveries             | Informação da quantidade de entregas realizadas pelo entregador juntamente com esse pedido        |
+|  Festival           |  Período de festas e eventos da cidade                                                   |
+| City | Cidade do pedido e entrega |
+| Time_taken(min)      | Tempo desde a retirada do pedido no restaurante até a entrega na casa do cliente |
 
+### Features criadas
+| Week_of_year      | Semana do ano |
+| Delivery_distance      | Distância entre o restaurante e o local do cliente |
 
 
 # 4. Premissas do Negócio
