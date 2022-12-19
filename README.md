@@ -1,4 +1,4 @@
-<img src='https://thumbs.jusbr.com/filters:format(webp)/imgs.jusbr.com/publications/images/ee45e13d4120d57ffac4899188220bce', align='center'/>
+<img src='https://thumbs.jusbr.com/filters:format(webp)/imgs.jusbr.com/publications/images/ee45e13d4120d57ffac4899188220bce'/>
 
 # Cury-Delivery-Food-Insights
 ## Problema de negócio
