@@ -1,7 +1,6 @@
 <img src='https://thumbs.jusbr.com/filters:format(webp)/imgs.jusbr.com/publications/images/ee45e13d4120d57ffac4899188220bce'/>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![forthebadge Pandas](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white]
 
 
 # Cury-Delivery-Food-Insights
@@ -130,19 +129,6 @@ Quais foram as etapas para solucionar o problema de negócio:
 6. Conclusão
 
 
-# 6. Top Insights
-
-Insights mais relevantes para o projeto e que auxilia a Cury - Delivery Food na tomada de decisões importantes ao negócio são (acionáveis):
-
-Imóveis com vista pra água são em média 300% mais caros
-
-Imóveis que nunca sofreram reformas são 30.21% mais baratos que os imóveis que ja sofreram algum tipo de reforma.
-
-Imóveis com 6-9 quartos são mais caros sendo,149% mais caros se comparado a imóveis com 0 a 3 quartos, 48.9% mais caros se comparados a imóveis com 3 a 6 quartos e 107% mais caros se comparados a imóveis com 9 a 11 quartos.
-
-
-
-
 # 7. Tradução para o negócio
 
 O que as análises das hipóteses dizem sobre o negócio.
@@ -157,19 +143,6 @@ O que as análises das hipóteses dizem sobre o negócio.
 | **H6** - Imóveis com mais quartos são em média 15% mais caros   | Falsa      | Investir em imóveis com 6-9 quartos                  |
 | **H7** - O crescimento do preço dos imóveis mês após mês no ano de 2014 é de 10% | Falsa      | Investir em imóveis nos meses de menor custo                 |
 | **H8** - O crescimento do preço dos imóveis ano após ano é de 10% | Falsa      | Investir em imóveis nos anos de menor custo                 |
-
-
-
-
-Ao final do estudo foi sugerido os 20 imóveis mais lucrativos para a empresa adquirir.
-
-|        |                         Valor USD                        |
-| :-------------: | :----------------------------------------------------------: |
-|     Investimento inicial       |       6889600        |
-|     **Lucro Esperado**      |                    2066880                    |
-
-
-
 
 
 # 8. Conclusão
