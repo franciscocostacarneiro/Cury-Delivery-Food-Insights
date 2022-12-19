@@ -133,23 +133,23 @@ Quais foram as etapas para solucionar o problema de negócio:
 6. Conclusão
 
 
-# 7. Tradução para o negócio
+# 6. Tradução para o negócio com a validação de hipóteses
 
 O que as análises das hipóteses dizem sobre o negócio.
 
 | Hipótese                                                     | Resultado  | Tradução para negócio                                        |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| **H1** -Imóveis com vista para a água são em média 30% mais caros | Verdadeira | Investir em imóveis com vista para água                      |
-| **H2** - Imóveis com data de construção menor que 1955 são em média 50% mais baratos | Falsa      | Investir em imóveis independente da data de construção       |
-| **H3** - Imóveis sem porão são 40% maiores do que imóveis com porão | Verdadeira | Investir em imóveis sem porão                                |
-| **H4** - Imóveis que nunca foram reformados são em média 20% mais baratos | Verdadeira | Investir em imóveis não reformados e reformá-los para venda  |
-| **H5** - Imóveis com mais banheiros são em média 15% mais caros | Falsa      | Investir em imóveis de 3-5 banheiros                         |
-| **H6** - Imóveis com mais quartos são em média 15% mais caros   | Falsa      | Investir em imóveis com 6-9 quartos                  |
-| **H7** - O crescimento do preço dos imóveis mês após mês no ano de 2014 é de 10% | Falsa      | Investir em imóveis nos meses de menor custo                 |
-| **H8** - O crescimento do preço dos imóveis ano após ano é de 10% | Falsa      | Investir em imóveis nos anos de menor custo                 |
+| **H1** - Entregas realizadas com o veículo do tipo "Motorcicle" são, na média, 50% mais rápidas que as entregas feitas com bicicletas | Falsa | A contratação de entregadores com bicicletas ou motocicletas são tecnicamente iguais para o negócio |
+| **H2** - Entregas realizadas com bicicletas são em geral mais lentas que as feitas com outros tipos de veículos |       | Investir em imóveis independente da data de construção       |
+| **H3** - As entregas em cidades Urbanas são, em média, 30% maiores |      | Investir em imóveis sem porão                                |
+| **H4** - Os entregadores mais novos fazem mais entregas que os mais velhos |     | Investir em imóveis não reformados e reformá-los para venda  |
+| **H5** - O número de entregas com a condição de clima ensolarada é 50% maior que a de tempestade |       | Investir em imóveis de 3-5 banheiros                         |
+| **H6** -  Os 10 entregadores mais rápidos têm a menor faixa etária  |       | Investir em imóveis com 6-9 quartos                  |
+| **H7** - Os 10 entregadores mais lentos têm a maior faixa etária |       | Investir em imóveis nos meses de menor custo                 |
+| **H8** - As entregas em dias de eventos são 20% menores que em dias sem eventos |       | Investir em imóveis nos anos de menor custo                 |
 
 
-# 8. Conclusão
+# 7. Conclusão
 
 Os objetivos foram alcançados. Os imóveis foram agrupados por região (zipcode). Considerando o preço do imóvel e a condição minima como regular (3 - 5) foi calculado a mediana do preço. Ao total 10505 imóveis foram declarados como Imóveis com alto potencial de revenda, dentre estes foram sugeridos os 20 mais lucrativos para a empresa comprar. Os imóveis aptos para compra foram agrupados pela localidade e a estação do ano. A mediana foi calculada e imóveis com preço abaixo da mediana teve um acréscimo de 10% em seu valor, enquanto imóveis com preço acima da mediana teve um acréscimo de 30% acima do seu valor. 
 
