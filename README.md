@@ -21,7 +21,7 @@ A Cury Company possui um modelo de negócio chamado Marketplace, que fazer o int
 
 As questões a serem respondidas com a abordagem de Análise Exploratória de Dados - EDA são:
 
-### Do lado da Empresa:
+### 2.1. Do lado da Empresa:
 
 **1**. Quantidade de pedidos por dia.
 
@@ -35,7 +35,7 @@ As questões a serem respondidas com a abordagem de Análise Exploratória de Da
 
 **6**. A localização central de cada cidade por tipo de tráfego.
 
-## Do lado dos entregadores
+## 2.2. Do lado dos entregadores
 
 **1**. A menor e maior idade dos entregadores.
 
@@ -51,7 +51,7 @@ As questões a serem respondidas com a abordagem de Análise Exploratória de Da
 
 **7**. Os 10 entregadores mais lentos por cidade.
 
-## Do lado dos Restaurantes
+## 2.3. Do lado dos Restaurantes
 
 **1**. A quantidade de entregadores únicos.
 
@@ -99,13 +99,10 @@ Os dados para este projeto podem ser encontrados em: https://www.kaggle.com/data
 
 # 4. Premissas do Negócio
   As seguintes premissas foram consideradas para esse projeto:
-- Os valores iguais a zero em '**yr_renovated**' são casas que nunca foram reformadas;
-- O valor igual a 33 na coluna '**bathroom**' foi considerada um erro e por isso foi delatada das análises;
-- Os valores não inteiros nos atributos '**bathrooms**' e '**floors**' foram arrendados com o intuito de simplificar o projeto;
-- A coluna '**price**' significa o preço que a casa foi / será comprada pela empresa House Rocket;
-- Valores duplicados em '**id**' foram removidos e considerados somente a compra mais recente;
-- A localidade e a condição do imóvel foram características decisivas na compra ou não do imóvel; e
-- A estação do ano foi a característica decisiva para a época da venda do imóvel.
+- Os valores 'NaN' encontrados nas colunas foram substituídos pela média dos valores e não foram excluídos;
+- Foram encontrados e retirados espaçamentos do nosso dataset, espaçamentos estes que prejudicariam as nossas análises;
+- não foi possível, com as informações disponíveis, o estabelecimento de critérios que, de forma eficiente, nos desse uma posição exata dos melhores e piores entregadores;
+- As condições do trânsito, bem como o tipo de veículo são decisivos para a velocidade da entrega. Contudo, não é possível, com as informações disponíveis, o estabelecimento de critérios eficientes para sabermos a real situação da relação acima estabelecida entre tipo de veículo, distância e condição climática.
 
 
 # 5. Estratégia de solução
@@ -128,13 +125,12 @@ Quais foram as etapas para solucionar o problema de negócio:
 
 5. Responder problemas do negócio
 
-6. Resultados para o negócio
+6. Conclusão
 
-7. Conclusão
 
 # 6. Top Insights
 
-Insights mais relevantes para o projeto e que auxilia a House Rocket na tomada de decisões importantes ao negócio são (acionáveis):
+Insights mais relevantes para o projeto e que auxilia a Cury - Delivery Food na tomada de decisões importantes ao negócio são (acionáveis):
 
 Imóveis com vista pra água são em média 300% mais caros
 
