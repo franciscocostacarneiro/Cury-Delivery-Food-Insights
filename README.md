@@ -153,4 +153,4 @@ O que as análises das hipóteses dizem sobre o negócio.
 
 Completamos a análise dos dados do negócio e tivemos insights acionários bastante interessantes à empresa responsável pela intermediação de clientes que precisam de entregas e restaurantes que oferecem esse serviço aos seus clientes. A materialidade dos números é bastante representativa, o que mostra ser um negócio realmente interessante de acordo com o dataset analisado. À medida que as comodidades de comer em casa os clientes vão aumentando a demanda ppor esse serviço. Consegui entender sobre uma curva de idades importantes para o negócio e sobre a cidade onde a Cury deve centralizar o crescimento estrutural e de energia.
 
-Link para o projeto no streamlit: [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)(https://franciscocostacarneiro-cury-delivery-food-insights-home-5viz5q.streamlit.app/)
+Link para o projeto no streamlit: [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://franciscocostacarneiro-cury-delivery-food-insights-home-5viz5q.streamlit.app/)
