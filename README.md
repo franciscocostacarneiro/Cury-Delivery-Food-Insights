@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 # Cury-Delivery-Food-Insights
-## Problema de negócio
+## Business assumptions
 A Cury Company é uma empresa de tecnologia que criou um aplicativo que conecta restaurantes, entregadores e pessoas.
 
 Através desse aplicativo, é possível realizar o pedido de uma refeição, em qualquer restaurante cadastrado, e recebê-lo no conforto da sua casa por um entregador também cadastrado no aplicativo da Cury Company.
@@ -16,3 +16,6 @@ A Cury Company possui um modelo de negócio chamado Marketplace, que fazer o int
 - Restaurantes;
 - entregadores; e
 - e pessoas compradoras.## 
+
+## Lista de atributos do dataset
+
