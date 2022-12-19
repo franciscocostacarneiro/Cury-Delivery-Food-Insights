@@ -1,16 +1,6 @@
 <img src='https://thumbs.jusbr.com/filters:format(webp)/imgs.jusbr.com/publications/images/ee45e13d4120d57ffac4899188220bce'/>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-<img src="{https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
-https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-
-<img src="{https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white}" />
 
 # Cury-Delivery-Food-Insights
 ## 1. Business assumptions
