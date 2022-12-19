@@ -93,8 +93,6 @@ Os dados para este projeto podem ser encontrados em: https://www.kaggle.com/data
 |  Festival           |  Período de festas e eventos da cidade                                                   |
 | City | Cidade do pedido e entrega |
 | Time_taken(min)      | Tempo desde a retirada do pedido no restaurante até a entrega na casa do cliente |
-
-### Features criadas
 | Week_of_year      | Semana do ano |
 | Delivery_distance      | Distância entre o restaurante e o local do cliente |
 
