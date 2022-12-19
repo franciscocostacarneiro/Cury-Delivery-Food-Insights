@@ -74,13 +74,13 @@ Os dados para este projeto podem ser encontrados em: https://www.kaggle.com/data
 |    Atributos    |                         Significado                          |
 | :-------------: | :----------------------------------------------------------: |
 |       id        |       Numeração única de identificação de cada entrega realizada        |
-|Delivery_person_ID       |                    É a identificação do vendedor de cada entrega                     |
-|      price      |    Preço que a casa está sendo vendida pelo proprietário     |
-|    bedrooms     |                      Número de quartos                       |
-|    bathrooms    | Número de banheiros (0.5 = banheiro em um quarto, mas sem chuveiro) |
-|   sqft_living   | Medida (em pés quadrado) do espaço interior dos apartamentos |
-|    sqft_lot     |     Medida (em pés quadrado) quadrada do espaço terrestre     |
-|     floors      |                 Número de andares do imóvel                  |
+|Delivery_person_ID       |                    É a identificação do entregador de cada entrega                     |
+|Delivery_person_Age      |    É a idade do entregador de cada entrega    |
+|Delivery_person_Ratings     | É a nota dada ao entregador de cada entrega                       |
+|Restaurant_latitude    | A latitude geoespacial do restaurante que fez a entrega |
+|Restaurant_longitude   | A longitude geoespacial do restaurante que fez a entrega |
+|Delivery_location_latitude     |     A latitude geoespacial de onde foi feita a entrega     |
+|Delivery_location_longitude      |  A latitude geoespacial de onde foi feita a entrega                  |
 |   waterfront    | Variável que indica a presença ou não de vista para água (0 = não e 1 = sim) |
 |      view       | Um índice de 0 a 4 que indica a qualidade da vista da propriedade. Varia de 0 a 4, onde: 0 = baixa  4 = alta |
 |    condition    | Um índice de 1 a 5 que indica a condição da casa. Varia de 1 a 5, onde: 1 = baixo \|-\| 5 = alta |
